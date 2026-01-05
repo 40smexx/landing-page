@@ -176,3 +176,11 @@ button {
   font-weight: 700;
   cursor: pointer;
 }
+/* FOOTER */
+.footer {
+  background-color: #1f2937;
+  color: white;
+  text-align: center;
+  padding: 30px;
+  font-size: 14px;
+}
