@@ -147,3 +147,32 @@ button {
   font-weight: 700;
   margin-top: 20px;
 }
+/* CTA SECTION */
+.cta {
+  padding: 100px 200px;
+}
+
+.cta-box {
+  background-color: #3882f6;
+  color: white;
+  padding: 50px 100px;
+  border-radius: 8px;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.cta-text h3 {
+  margin-bottom: 8px;
+}
+
+.cta-button {
+  background-color: transparent;
+  border: 2px solid white;
+  color: white;
+  padding: 10px 30px;
+  border-radius: 6px;
+  font-weight: 700;
+  cursor: pointer;
+}
